@@ -31,4 +31,4 @@ Latest Version can be downloaded [here](https://github.com/tsjdev-apps/AlexaFact
 
 # Source Code
 
-The source code of the template is located in the `develop` branch of this repository. You can find it [here]{https://github.com/tsjdev-apps/AlexaFactSkillNetTemplate/tree/develop}
+The source code of the template is located in the `develop` branch of this repository. You can find it [here](https://github.com/tsjdev-apps/AlexaFactSkillNetTemplate/tree/develop).
