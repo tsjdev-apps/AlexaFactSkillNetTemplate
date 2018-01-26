@@ -38,7 +38,6 @@ namespace AlexaFactSkill.Services
         /// <returns>List of facts.</returns>
         private static IEnumerable<Fact> GetFacts()
         {
-            // TODO: Please insert here the correct link to the json file.
             return EmbeddedResourceService.GetData<IEnumerable<Fact>>("AlexaFactSkill.Data.facts.json");
         }
     }
