@@ -28,6 +28,11 @@ Latest Version can be downloaded [here](https://github.com/tsjdev-apps/AlexaFact
 * `FactsService` to get a random fact or a fact by intent
 * Preparations to handle required intents like `AMAZON.StopIntent`, `AMAZON.CancelIntent`, `AMAZON.HelpIntent` and `LaunchRequest`
 
+## version 2
+* Update some Nuget packages
+* Add missing comments on model class
+* Remove unused files
+
 
 # Source Code
 
